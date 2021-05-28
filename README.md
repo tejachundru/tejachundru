@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tejachundru
-- 👀 I’m interested in React, react native and few
+- 👀 I’m interested in React, react native
 
 
 <!---
